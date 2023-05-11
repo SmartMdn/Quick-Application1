@@ -1,19 +1,10 @@
-// ======================================
-// Author: Ebenezer Monney
-// Copyright (c) 2023 www.ebenmonney.com
-// 
-// ==> Gun4Hire: contact@ebenmonney.com
-// ======================================
-
 import { Component, OnInit, OnDestroy, ViewChild } from '@angular/core';
 import { Router, NavigationExtras, ActivatedRoute } from '@angular/router';
-
 
 import { fadeInOut } from '../../services/animations';
 import { BootstrapTabDirective } from '../../directives/bootstrap-tab.directive';
 import { AccountService } from '../../services/account.service';
 import { Permission } from '../../models/permission.model';
-
 
 @Component({
   selector: 'app-settings',

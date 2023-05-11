@@ -1,13 +1,3 @@
-// ======================================
-// Author: Ebenezer Monney
-// Copyright (c) 2023 www.ebenmonney.com
-// 
-// ==> Gun4Hire: contact@ebenmonney.com
-// ======================================
-
-/**
- * Helper class to decode and find JWT expiration.
- */
 import { Injectable } from '@angular/core';
 
 

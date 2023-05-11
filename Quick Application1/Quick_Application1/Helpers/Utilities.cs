@@ -1,11 +1,4 @@
-﻿// ======================================
-// Author: Ebenezer Monney
-// Copyright (c) 2023 www.ebenmonney.com
-// 
-// ==> Gun4Hire: contact@ebenmonney.com
-// ======================================
-
-using IdentityModel;
+﻿using IdentityModel;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;

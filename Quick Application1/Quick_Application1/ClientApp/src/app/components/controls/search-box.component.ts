@@ -1,10 +1,3 @@
-// ======================================
-// Author: Ebenezer Monney
-// Copyright (c) 2023 www.ebenmonney.com
-// 
-// ==> Gun4Hire: contact@ebenmonney.com
-// ======================================
-
 import { Component, ViewChild, ElementRef, Input, Output, EventEmitter, HostListener } from '@angular/core';
 
 @Component({

@@ -1,13 +1,4 @@
-// ======================================
-// Author: Ebenezer Monney
-// Copyright (c) 2023 www.ebenmonney.com
-// 
-// ==> Gun4Hire: contact@ebenmonney.com
-// ======================================
-
 import { Pipe, PipeTransform } from '@angular/core';
-
-
 
 @Pipe({ name: 'groupBy' })
 export class GroupByPipe implements PipeTransform {

@@ -1,15 +1,7 @@
-﻿// ======================================
-// Author: Ebenezer Monney
-// Copyright (c) 2023 www.ebenmonney.com
-// 
-// ==> Gun4Hire: contact@ebenmonney.com
-// ======================================
-
-using DAL.Core;
+﻿using DAL.Core;
 using Duende.IdentityServer;
 using Duende.IdentityServer.Models;
 using IdentityModel;
-using System;
 using System.Collections.Generic;
 
 namespace Quick_Application1

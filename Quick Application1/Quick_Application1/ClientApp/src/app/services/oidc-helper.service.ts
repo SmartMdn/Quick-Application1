@@ -1,14 +1,5 @@
-// ======================================
-// Author: Ebenezer Monney
-// Copyright (c) 2023 www.ebenmonney.com
-// 
-// ==> Gun4Hire: contact@ebenmonney.com
-// ======================================
-
 import { Injectable } from '@angular/core';
 import { HttpClient, HttpHeaders, HttpParams } from '@angular/common/http';
-import { from } from 'rxjs';
-import { mergeMap } from 'rxjs/operators';
 import { OAuthService } from 'angular-oauth2-oidc';
 
 import { LocalStoreManager } from './local-store-manager.service';

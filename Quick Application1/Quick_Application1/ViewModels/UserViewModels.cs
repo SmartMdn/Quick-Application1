@@ -1,16 +1,5 @@
-﻿// ======================================
-// Author: Ebenezer Monney
-// Copyright (c) 2023 www.ebenmonney.com
-// 
-// ==> Gun4Hire: contact@ebenmonney.com
-// ======================================
-
-using FluentValidation;
-using Quick_Application1.Helpers;
-using System;
-using System.Collections.Generic;
+﻿using Quick_Application1.Helpers;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
 
 
 namespace Quick_Application1.ViewModels
